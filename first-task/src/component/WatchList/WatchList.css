@@ -1,0 +1,22 @@
+.list {
+    width: 490px;
+    margin:0 auto;
+    display: flex;
+}
+.list-field {
+    width: 50%;
+    margin-right: 15px;
+    border: 2px solid;
+    height: 20px;
+    padding: 3px 5px;
+}
+.list-btn {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+    padding: 0 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 28px;
+}

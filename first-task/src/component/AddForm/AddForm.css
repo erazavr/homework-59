@@ -1,0 +1,23 @@
+.form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.form-field {
+    width: 30%;
+    margin-right: 15px;
+    border: 2px solid;
+    height: 20px;
+    padding: 3px 5px;
+}
+.form-btn {
+    border: 2px solid;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+    box-shadow: 3px 1px 1px black;
+    padding: 0 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
